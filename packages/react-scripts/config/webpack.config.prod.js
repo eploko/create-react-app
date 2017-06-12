@@ -190,7 +190,7 @@ module.exports = {
         options: {
           babelrc: false,
           presets: [require.resolve('babel-preset-react-app')],
-          plugins: [require.resolve('babel-plugin-relay')],
+          plugins: [[require.resolve('babel-plugin-relay'), {schema: './schema.graphql'}]],
         },
         // @remove-on-eject-end
       },

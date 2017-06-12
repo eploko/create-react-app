@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-relay-modern",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Configuration and scripts for Create React App, patched for Relay Modern.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
